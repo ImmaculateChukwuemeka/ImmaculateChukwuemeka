@@ -39,7 +39,6 @@ When I'm not working with data and engineering problems, I enjoy community servi
 - **Reservoir Forecasting:** Applying data science techniques to improve production forecasting and reservoir performance prediction.
 - **Research Publications:** Expanding research on AI applications in petroleum engineering and sustainable energy systems.
 
----
 
 ## 🌱 Currently Learning
 
