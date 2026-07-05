@@ -65,29 +65,29 @@ Explore my portfolio showcasing projects, research, and coursework from my **Mas
 
 ### 🤖 Artificial Intelligence & Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/Machine_Learning-Advanced-F7931E?style=flat" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Deep_Learning-Intermediate-FF4500?style=flat" alt="Deep Learning">
-  <img src="https://img.shields.io/badge/Predictive_Analytics-Advanced-4169E1?style=flat" alt="Predictive Analytics">
-  <img src="https://img.shields.io/badge/Forecasting-Advanced-228B22?style=flat" alt="Forecasting">
-  <img src="https://img.shields.io/badge/Predictive_Maintenance-Advanced-B22222?style=flat" alt="Predictive Maintenance">
+  <img src="https://img.shields.io/badge/Machine_Learning-Beginner-F7931E?style=flat" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Deep_Learning-Beginner-FF4500?style=flat" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/Predictive_Analytics-Beginner-4169E1?style=flat" alt="Predictive Analytics">
+  <img src="https://img.shields.io/badge/Forecasting-Beginner-228B22?style=flat" alt="Forecasting">
+  <img src="https://img.shields.io/badge/Predictive_Maintenance-Beginner-B22222?style=flat" alt="Predictive Maintenance">
 </p>
 
 ### 📊 Data Science & Analytics
 <p>
-  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Pandas-Advanced-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-Advanced-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Statistical_Analysis-Advanced-4ECDC4?style=flat" alt="Statistical Analysis">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Pandas-Intermediate-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-Intermediate-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Statistical_Analysis-Beginner-4ECDC4?style=flat" alt="Statistical Analysis">
 </p>
 
 ### 📈 Business Intelligence & Visualization
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/Power_BI-Beginner-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Tableau-Beginner-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
   <img src="https://img.shields.io/badge/Microsoft_Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Data_Visualization-Advanced-8A2BE2?style=flat" alt="Data Visualization">
-  <img src="https://img.shields.io/badge/KPI_Development-Advanced-96CEB4?style=flat" alt="KPI Development">
+  <img src="https://img.shields.io/badge/Data_Visualization-Intermediate-8A2BE2?style=flat" alt="Data Visualization">
+  <img src="https://img.shields.io/badge/KPI_Development-Intermediate-96CEB4?style=flat" alt="KPI Development">
 </p>
 
 ### 💻 Software Development & Databases
@@ -95,7 +95,7 @@ Explore my portfolio showcasing projects, research, and coursework from my **Mas
   <img src="https://img.shields.io/badge/Java-Intermediate-007396?style=flat&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/MongoDB-Intermediate-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Git-Intermediate-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-Advanced-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-Intermediate-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
 </p>
 
 ## 📚 Research Interests
