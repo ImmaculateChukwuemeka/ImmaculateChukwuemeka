@@ -103,7 +103,6 @@ When I'm not working with data and engineering problems, I enjoy community servi
 - 🏭 Digital Oilfield Technologies
 - 📊 Data-Driven Decision Making
 
----
 
 ## 📫 Let's Connect
 
