@@ -18,12 +18,12 @@ I'm a Petroleum Engineer, Data Scientist, and AI researcher passionate about app
 
 My primary research interests include:
 
-🛢️ Production optimization in mature (brownfield) oil reservoirs
-🤖 Artificial Intelligence and Machine Learning applications in energy systems
-📊 Predictive analytics and forecasting
-⚙️ Artificial lift optimization
-🔧 Predictive maintenance and operational efficiency
-🌍 Data-driven approaches to sustainable energy development
+- 🛢️ **Production optimization in mature (brownfield) oil reservoirs**
+- 🤖 **Artificial Intelligence and Machine Learning applications in energy systems**
+- 📊 **Predictive analytics and forecasting**
+- ⚙️ **Artificial lift optimization**
+- 🔧 **Predictive maintenance and operational efficiency**
+- 🌍 **Data-driven approaches to sustainable energy development**
 
 I enjoy transforming complex engineering and operational data into actionable insights that support better decision-making. I am particularly interested in bridging the gap between traditional petroleum engineering and modern AI technologies.
 
