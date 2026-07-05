@@ -45,27 +45,46 @@ When I'm not working with data and engineering problems, I enjoy community servi
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
-#### Data Analysis & Visualization
+### ⛽ Petroleum Engineering
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Production_Engineering-Advanced-00599C?style=flat" alt="Production Engineering">
+  <img src="https://img.shields.io/badge/Reservoir_Engineering-Advanced-008080?style=flat" alt="Reservoir Engineering">
+  <img src="https://img.shields.io/badge/Artificial_Lift-Advanced-FF8C00?style=flat" alt="Artificial Lift">
+  <img src="https://img.shields.io/badge/Production_Optimization-Advanced-DC143C?style=flat" alt="Production Optimization">
+  <img src="https://img.shields.io/badge/Brownfield_Operations-Advanced-6A5ACD?style=flat" alt="Brownfield Operations">
 </p>
 
-#### Programming & Automation
+### 🤖 Artificial Intelligence & Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Machine_Learning-Advanced-F7931E?style=flat" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Deep_Learning-Intermediate-FF4500?style=flat" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/Predictive_Analytics-Advanced-4169E1?style=flat" alt="Predictive Analytics">
+  <img src="https://img.shields.io/badge/Forecasting-Advanced-228B22?style=flat" alt="Forecasting">
+  <img src="https://img.shields.io/badge/Predictive_Maintenance-Advanced-B22222?style=flat" alt="Predictive Maintenance">
 </p>
 
-#### Business Intelligence & Analytics
+### 📊 Data Science & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Pandas-Advanced-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-Advanced-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Statistical_Analysis-Advanced-4ECDC4?style=flat" alt="Statistical Analysis">
+</p>
+
+### 📈 Business Intelligence & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Data_Visualization-Advanced-8A2BE2?style=flat" alt="Data Visualization">
+  <img src="https://img.shields.io/badge/KPI_Development-Advanced-96CEB4?style=flat" alt="KPI Development">
+</p>
+
+### 💻 Software Development & Databases
+<p>
+  <img src="https://img.shields.io/badge/Java-Intermediate-007396?style=flat&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/MongoDB-Intermediate-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Git-Intermediate-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-Advanced-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
 </p>
