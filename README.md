@@ -29,8 +29,13 @@ I enjoy transforming complex engineering and operational data into actionable in
 
 When I'm not working with data and engineering problems, I enjoy community service, learning emerging technologies, and contributing to innovative solutions that create real-world impact.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://immaculatechukwuemeka.github.io/)
+## 🎓 Academic Portfolio
+
+Explore my portfolio showcasing projects, research, and coursework from my **Master's program in Artificial Intelligence with a specialization in Data Analytics**, including applications of AI, machine learning, data science, and predictive analytics in energy systems.
+
+### 🏆 View My Academic Portfolio Website
+
+🔗 **[Visit My Portfolio](https://immaculatechukwuemeka.github.io/)**
       
 ## 🔭 What I'm Currently Working On
 
