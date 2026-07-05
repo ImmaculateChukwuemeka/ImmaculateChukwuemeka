@@ -35,7 +35,7 @@ Explore my portfolio showcasing projects, research, and coursework from my **Mas
 
 ### 🏆 View My Academic Portfolio Website
 
-🔗 **[Visit My Portfolio](https://immaculatechukwuemeka.github.io/)**
+🔗 **[Visit My Portfolio](https://ImmaculateChukwuemeka.github.io/)**
       
 ## 🔭 What I'm Currently Working On
 
