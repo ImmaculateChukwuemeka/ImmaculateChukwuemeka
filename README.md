@@ -32,17 +32,22 @@ When I'm not working with data and engineering problems, I enjoy community servi
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://immaculatechukwuemeka.github.io/)
       
-## 🔭 What I'm Currently Working On 
+## 🔭 What I'm Currently Working On
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **AI-Based Production Optimization:** Developing machine learning models to optimize production performance in mature oilfields.
+- **Predictive Maintenance Systems:** Building predictive analytics frameworks for equipment reliability and failure prevention.
+- **Reservoir Forecasting:** Applying data science techniques to improve production forecasting and reservoir performance prediction.
+- **Research Publications:** Expanding research on AI applications in petroleum engineering and sustainable energy systems.
 
-## 🌱 Currently Learning 
+---
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+## 🌱 Currently Learning
 
+- 🎓 Pursuing a **Master's degree in Artificial Intelligence** with a specialization in **Data Analytics**.
+- 🤖 Advanced **Machine Learning and Artificial Intelligence** techniques.
+- 📊 Data analytics, predictive modeling, and statistical learning methods.
+- ☁️ Cloud-based data science and AI deployment technologies.
+- 🧠 Emerging applications of AI in energy systems and industrial optimization.
 ## 🛠️ Technical Skillset
 
 ### ⛽ Petroleum Engineering
