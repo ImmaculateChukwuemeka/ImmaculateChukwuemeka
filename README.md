@@ -92,3 +92,26 @@ When I'm not working with data and engineering problems, I enjoy community servi
   <img src="https://img.shields.io/badge/Git-Intermediate-F05032?style=flat&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-Advanced-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
 </p>
+
+## 📚 Research Interests
+
+- 🤖 Artificial Intelligence in Energy Systems
+- 🧠 Machine Learning for Production Optimization
+- 🔧 Predictive Maintenance
+- ⛽ Reservoir Performance Modeling
+- 🌱 Sustainable Energy Technologies
+- 🏭 Digital Oilfield Technologies
+- 📊 Data-Driven Decision Making
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in collaborating on projects involving:
+
+- ✔️ Artificial Intelligence
+- ✔️ Machine Learning
+- ✔️ Data Science
+- ✔️ Petroleum Engineering
+- ✔️ Energy Optimization
+- ✔️ Sustainable Technology Solutions
