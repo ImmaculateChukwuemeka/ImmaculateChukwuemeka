@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Immaculate Chukwuemeka 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -8,20 +8,29 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/immaculate-okoruwa"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://youtube.com/@immaculatechukwuemeka"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
+  <a href="mailto:icokoruwa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a Petroleum Engineer, Data Scientist, and AI researcher passionate about applying Artificial Intelligence and Machine Learning to solve complex energy challenges. My work focuses on developing intelligent, data-driven solutions that optimize production performance, improve operational efficiency, and support sustainable energy practices.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My primary research interests include:
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+🛢️ Production optimization in mature (brownfield) oil reservoirs
+🤖 Artificial Intelligence and Machine Learning applications in energy systems
+📊 Predictive analytics and forecasting
+⚙️ Artificial lift optimization
+🔧 Predictive maintenance and operational efficiency
+🌍 Data-driven approaches to sustainable energy development
+
+I enjoy transforming complex engineering and operational data into actionable insights that support better decision-making. I am particularly interested in bridging the gap between traditional petroleum engineering and modern AI technologies.
+
+When I'm not working with data and engineering problems, I enjoy community service, learning emerging technologies, and contributing to innovative solutions that create real-world impact.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://immaculatechukwuemeka.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
